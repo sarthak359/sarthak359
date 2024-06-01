@@ -1,4 +1,4 @@
-[![MasterHead](https://sarthak359.blogspot.com/2024/06/blog-post.html)]
+[![MasterHead](https://www.canva.com/design/DAGG6CjXLkw/x0iK2NievBxVmU5e7r_oLQ/watch)]
 
 <h1 align="center">Hi 👋, I'm Sarthak Aggarwal</h1>
 <h3 align="center">A passionate frontend developer and software developer from India</h3>
