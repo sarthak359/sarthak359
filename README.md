@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://sarthak359.blogspot.com/2024/06/blog-post.html)]
 
 <h1 align="center">Hi 👋, I'm Sarthak Aggarwal</h1>
 <h3 align="center">A passionate frontend developer and software developer from India</h3>
