@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarthakagg72251" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakagg72251?logo=twitter&style=for-the-badge" alt="sarthakagg72251" /></a> </p>
 
-- 🌱 I’m currently learning **Sql**
+- 🌱 I’m currently working on my **project**.
 
 - 💬 Ask me about **Web development, Data Structures and Algorithms**
 
